@@ -1,0 +1,7 @@
+/* styles.css */
+body {
+    background-color: black; /* Màu nền đen */
+    color: white; /* Màu chữ trắng */
+    margin: 0;
+    font-family: Arial, sans-serif; /* Chọn font chữ */
+}

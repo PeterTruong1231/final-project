@@ -1,0 +1,13 @@
+
+.single-service-item {
+    height: 500px;
+}
+
+.single-service-item a {
+    color: rgb(0, 17, 255);
+}
+
+.parent-element img {
+    max-width: 500px;
+    height: auto;
+}

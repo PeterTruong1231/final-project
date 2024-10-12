@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Áo sơ mi",
+        "price": 100000,
+        "image": "./images/somi.webp"
+    },
+    {
+        "id": 2,
+        "name": "Áo thun",
+        "price": 50000,
+        "image": "./images/ao thun.webp"
+    },
+    {
+        "id": 3,
+        "name": "Quần jean",
+        "price": 200000,
+        "image": "./images/jean.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Quần kaki",
+        "price": 150000,
+        "image": "./images/product.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Áo khoác",
+        "price": 250000,
+        "image": "./images/product.jpg"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Ford Mustang",
+        "price": 31920,
+        "image": "./images/vehicle (1).avif"
+    },
+    {
+        "id": 2,
+        "name": "Lexus LC",
+        "price": 114210,
+        "image": "./images/R.PNG"
+    },
+    {
+        "id": 3,
+        "name": "Mercedes-Benz AMG GT",
+        "price": 134900,
+        "image": "./images/R (1).PNG"
+    },
+    {
+        "id": 4,
+        "name": "Porsche 911",
+        "price": 101200,
+        "image": "./images/product.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Lexus LS Hybrid",
+        "price": 114210,
+        "image": "./images/Lexus-LC-visualizer-styles-750x471-LEX-LC5-MY24-0006.06"
+    },
+    {
+        "id": 6,
+        "name": "Mercedes-Benz S-class",
+        "price": 182250,
+        "image": "./images/product.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Roll Royce Phantom II",
+        "price": 233060,
+        "image": "./images/product.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Volvo S90",
+        "price": 71900,
+        "image": "./images/product.jpg"
+    },
+    {
+        "id": 9,
+        "name": "BMW X5",
+        "price": 159000,
+        "image": "./images/product.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Cadillac ESCALADE",
+        "price": 159003,
+        "image": "./images/product.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Lincoln Navigator",
+        "price": 83264,
+        "image": "./images/product.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Mercedes-Benz GLS Maybach",
+        "price": 174350,
+        "image": "./images/product.jpg"
+    }
+]
